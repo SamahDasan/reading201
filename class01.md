@@ -202,3 +202,36 @@ using size, color, and style.
 <br>
 X You can use grouping and similarity to help simplify
 the information you present.
+
+JavaScript Functions
+Ssmmarize
+What is Function ?
+A method or a proccess that we call or request many timesfor
+do some thing like summation , subtraction etc .
+
+
+
+Standard Naming Of Function
+standard naming of function is calles camel case that evry word in the name of function should or prefear to begin with capital case latter .
+like sumOfNums(){......} like getValueOf {.......}
+
+Function Example
+
+This Function returns the result of summation between two variables
+
+''' function summation(num1,num2)
+{ var sum = num1 + num2 ;
+return sum;
+} '''
+
+Invoking Functions
+functions can be invoked in javascript block of code or in any element by some event .
+
+
+Ex To Invoke the previous function in script
+
+'< script >
+
+document.write(summation(1,2));
+
+< /script > '
