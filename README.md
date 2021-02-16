@@ -4,6 +4,6 @@
  
  # Name |
 
- [Read01](https://github.com/SamahDasan/reading201/blob/main/class01.md)
-[read02](https://github.com/SamahDasan/reading201/blob/main/read02.md)
-[read03](https://github.com/SamahDasan/reading201/blob/main/read03)
+ [Read01]( https://samahdasan.github.io/reading201//class01)
+[read02]( https://samahdasan.github.io/reading201//read02)
+[read03]( https://samahdasan.github.io/reading201//read03)
