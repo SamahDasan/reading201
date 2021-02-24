@@ -11,4 +11,4 @@
 [read05](https://samahdasan.github.io/reading201//read05)
 [read06](https://samahdasan.github.io/reading201//read06)
 [reas07](https://samahdasan.github.io/reading201//read07)
-[read08]((https://samahdasan.github.io/reading201//read08)
+[read08](https://github.com/SamahDasan/reading201/blob/main/read08.md)
